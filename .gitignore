@@ -51,9 +51,4 @@ data/processed/
 # =========================
 # Archivos de datos grandes
 # =========================
-*.csv
 *.parquet
-*.xlsx
-*.xls
-*.zip
-*.7z
