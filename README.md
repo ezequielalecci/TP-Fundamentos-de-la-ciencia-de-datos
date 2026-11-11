@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 5. Ejecutar `Analisis_para_hipotesis.ipynb`, donde exploramos el nuevo dataset con las técnicas vistas en clase, intentando ver que posibles conclusiones podemos plantear a partir del mismo 
 
-6. Para cada `hipótesisX_nuestra.ipynb` se recomienda primero leer la documentación del informe correspondiente a cada una, ya que aquí se indica como se va a abordar, y la justificación de cada elección. Posteriormente, se pueden ejecutar los cuadernos Jupyter donde se explica de forma menos detallada que es lo que se esta haciendo, en base al análisis previo realizado en el informe
+6. Para cada `hipótesisX_nuestra.ipynb` se recomienda primero leer la documentación del informe correspondiente a cada una (definidas primero en el apartado 3 y desarrollas luego en el apartado 5 del informe), ya que aquí se indica como se va a abordar, y la justificación de cada elección. Posteriormente, se pueden ejecutar los cuadernos Jupyter donde se explica de forma menos detallada que es lo que se esta haciendo, en base al análisis previo realizado en el informe
 
 7. Finalmente, hacer lo mismo que el paso anterior pero para con los cuadernos `hipotesis_catedra_X`, donde se abordan los apartados solicitados en el ejercicio 4
 
