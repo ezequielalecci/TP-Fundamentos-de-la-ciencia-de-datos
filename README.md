@@ -1,5 +1,5 @@
-# En este enlace se encuentra el informe que realizamos:
-[https://docs.google.com/document/d/1NTf4-pDs0iY99hW5uYjsUHgvOkngz0HAAkhRwx0YJKg/edit?usp=sharing]
+# Junto a los archivos del proyecto se encuentra "Informe_tpe_especial.pdf" en el se detalla todo el trabajo que realizamos
+
 
 # Flujo de trabajo:
 ### Para correr correctamente todos los archivos se recomienda:
@@ -18,12 +18,16 @@ source nombre-entorno/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Ejecutar el archivo `limpieza.ipynb` que generará un archivo llamado `dataset_limpio.parquet`. En el mismo cuaderno Jupyter se explican los pasos que se usaron y la justificación de cada uno
+4. Ejecutar el archivo "Trabajo practico especial.ipynb en donde se encuentran todas las celdas del proyecto dandole a "run all"
 
-5. Ejecutar `Analisis_para_hipotesis.ipynb`, donde exploramos el nuevo dataset con las técnicas vistas en clase, intentando ver que posibles conclusiones podemos plantear a partir del mismo 
+5. Al ejecutar el archivo `Trabajo practico especial.ipynb` las celdas asociadas a la limpieza generarán un archivo llamado `dataset_limpio.parquet`. En el mismo cuaderno Jupyter se explican los pasos que se usaron y la justificación de cada uno.
 
-6. Para cada `hipótesisX_nuestra.ipynb` se recomienda primero leer la documentación del informe correspondiente a cada una (definidas primero en el apartado 3 y desarrollas luego en el apartado 5 del informe), ya que aquí se indica como se va a abordar, y la justificación de cada elección. Posteriormente, se pueden ejecutar los cuadernos Jupyter donde se explica de forma menos detallada que es lo que se esta haciendo, en base al análisis previo realizado en el informe
 
-7. Finalmente, hacer lo mismo que el paso anterior pero para con los cuadernos `hipotesis_catedra_X`, donde se abordan los apartados solicitados en el ejercicio 4
+6. Al ejecutar el archivo `Trabajo practico especial.ipynb`, en las celdas asocidadas a la seccion "analisis para las hipotesis" se intenta ver que posibles conclusiones podemos plantear a partir de los resutados obtenidos 
+
+7. Para cada hiptesis en las distintas secciones de hipotesis que hay en el archivo  `Trabajo practico especial.ipynb`  se recomienda primero leer la documentación del informe correspondiente a cada una (definidas primero en el apartado 3 y desarrollas luego en el apartado 4 y 5 del informe), ya que aquí se indica como se va a abordar, y la justificación de cada elección.
+
+
+
 
 
