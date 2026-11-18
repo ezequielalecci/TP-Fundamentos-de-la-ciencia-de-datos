@@ -1,9 +1,11 @@
-# Junto a los archivos del proyecto se encuentra "Informe_tpe_especial.pdf" en el se detalla todo el trabajo que realizamos
+# Junto a los archivos del proyecto se encuentra "Informe_tpe_especial.pdf" en el se detalla todo el trabajo que realizamos.
+También proporcionamos el link al drive por si se prefiere abrirlo en google docs: 
+https://docs.google.com/document/d/1NTf4-pDs0iY99hW5uYjsUHgvOkngz0HAAkhRwx0YJKg/edit?usp=sharing
 
 
 # Flujo de trabajo:
 ### Para correr correctamente todos los archivos se recomienda:
-1. Se recomienda comenzar leyendo el apartado 1 del informe, donde hablamos acerca del posible origen de los datos y que tipo de datos, incoherencias y faltantes que nos encontramos 
+1. Se recomienda comenzar leyendo el apartado 1 del informe, donde hablamos acerca del posible origen de los datos y que tipo de datos, incoherencias y faltantes que nos encontramos.
 
 2. Crear un entorno virtual:
 ``` bash
